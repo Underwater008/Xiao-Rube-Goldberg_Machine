@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: f94e43d7671575446b525293a665c5d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3979631714485063439
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_0
+  - first:
+      213: -4180758465517665152
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_1
+  - first:
+      213: -6388835372993469368
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_2
+  - first:
+      213: 6036342300181656714
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_3
+  - first:
+      213: -5293871468835353265
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_4
+  - first:
+      213: -8334019393511988650
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_5
+  - first:
+      213: -7343182109648429621
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_6
+  - first:
+      213: 5222602446400406316
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_7
+  - first:
+      213: 4520905400456232323
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_8
+  - first:
+      213: 2719193936655439079
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_9
+  - first:
+      213: -817752308592736074
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_10
+  - first:
+      213: 7066903382033345139
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_11
+  - first:
+      213: 420797297885667090
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_12
+  - first:
+      213: -310715425990431709
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_13
+  - first:
+      213: 1462640261414105255
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_14
+  - first:
+      213: 5997631431203712546
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_15
+  - first:
+      213: -7594760215153298876
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_16
+  - first:
+      213: -3992303948243074238
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_17
+  - first:
+      213: 8133241485731518893
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_18
+  - first:
+      213: -1714184005572030607
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_19
+  - first:
+      213: -5359110855836659109
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_20
+  - first:
+      213: -5524818591640258294
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_21
+  - first:
+      213: -273184392556042822
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_22
+  - first:
+      213: -2572790781063598204
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_23
+  - first:
+      213: 7517611416205118492
+    second: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 572
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03d396a0285c8c0800000000000000
+      internalID: -3979631714485063439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 572
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084cc138356faf5c0800000000000000
+      internalID: -4180758465517665152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 572
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8442648e31c4657a0800000000000000
+      internalID: -6388835372993469368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 573
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84fdf0175565c350800000000000000
+      internalID: 6036342300181656714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 572
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4e7d72f36886b0800000000000000
+      internalID: -5293871468835353265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 433
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526082648d975c80800000000000000
+      internalID: -8334019393511988650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 439
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd661f6c6c71a90800000000000000
+      internalID: -7343182109648429621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 431.6
+        width: 116.2
+        height: 130.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2348c421496a7840800000000000000
+      internalID: 5222602446400406316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 436
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db659428b7dbe30800000000000000
+      internalID: 4520905400456232323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 435
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e45ebd7a748cb520800000000000000
+      internalID: 2719193936655439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 292
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80314ab92c6a4f0800000000000000
+      internalID: -817752308592736074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 293
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aaa141f2fa21260800000000000000
+      internalID: 7066903382033345139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 287
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5be6b9e8f6d500800000000000000
+      internalID: 420797297885667090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 291.6
+        width: 116.2
+        height: 130.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2b9f57fd10bbf0800000000000000
+      internalID: -310715425990431709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 291
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b5cf71975c4410800000000000000
+      internalID: 1462640261414105255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6d96820edb3350800000000000000
+      internalID: 5997631431203712546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151.6
+        width: 116.2
+        height: 130.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442b485b2ddf99690800000000000000
+      internalID: -7594760215153298876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 151.6
+        width: 116.2
+        height: 130.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243059116bc7898c0800000000000000
+      internalID: -3992303948243074238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 150
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95f7d1a041fd070800000000000000
+      internalID: 8133241485731518893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_19
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 145
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0934aabef538e0800000000000000
+      internalID: -1714184005572030607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529ae5021d90a5b0800000000000000
+      internalID: -5359110855836659109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fecc33c6e353b0800000000000000
+      internalID: -5524818591640258294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 6
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5248b0e34753cf0800000000000000
+      internalID: -273184392556042822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fed457a6c9b4cd0800000000000000
+      internalID: -2572790781063598204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-locoroco-cartoon-u0e01u0e32u0e23u0e4cu0e15u0e39u0e-insect-5a80fe636af252.6423089515184031714381_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 11.600006
+        width: 116.2
+        height: 130.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc356c0cbe35860800000000000000
+      internalID: 7517611416205118492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
